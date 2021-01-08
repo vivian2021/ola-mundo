@@ -1,5 +1,24 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    outline:0;
+    background-color: #1C2132;
+}
+
+#head{
+    width: 1440px;
+    height: 75px;
+    background-color: #C4C4C4;
+}
+
+#head-title{
+    margin: 0 0 15px;
+}
+
+
 .oi{
     color: rgb(255, 255, 255);
 }
-body{background-color: rgb(60, 60, 85)}
+
 
